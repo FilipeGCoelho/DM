@@ -1,0 +1,13 @@
+Liu H, Yu L (2005) Toward integrating feature selection algorithms for classifcation and clustering. IEEE
+Trans Knowl Data Eng 17(4):491–502
+
+Parsons L, Haque E, Liu H (2004) Subspace clustering for high dimensional data: a review. SIGKDD
+Explor Newsl 6(1):90–105
+
+Domeniconi C, Papadopoulos D, Gunopulos D, Ma S (2004) Subspace clustering of high dimensional data.
+In: Siam international conference on data mining
+
+Domeniconi C, Gunopulos D, Ma S, Yan B, Al-Razgan M, Papadopoulos D (2007) Locally adaptive metrics
+for clustering high dimensional data. Data Min Knowl Discov 14(1):63–97
+
+
