@@ -1,4 +1,3 @@
-
 +--------------------------------------------------------------------+
 |                PARALYZED VETERANS OF AMERICA (PVA)                 |
 |                  DATA DICTIONARY TO ACCOMPANY                      |
@@ -634,6 +633,7 @@ AC2                         Percent Adults Age 60-64
 
 --------------------------  -------------------------------------------------
 
+"""
                             The fields listed below are from the promotion history file.
 
                             PROMOTION CODES:
@@ -808,6 +808,10 @@ RFA_22                      Donor's RFA status as of 15XK promotion date
 RFA_23                      Donor's RFA status as of 14FS promotion date
 RFA_24                      Donor's RFA status as of 14NK promotion date
 
+"""
+
+
+
 --------------------------  -------------------------------------------------
                             The following fields are summary variables from
                             the promotion history file.
@@ -828,7 +832,7 @@ NUMPRM12                    Number of promotions received in the last 12
 --------------------------  -------------------------------------------------
                             The following fields are from the giving history
                             file.
-
+"""
 RDATE_3                     Date the gift was received for 16NK
 RDATE_4                     Date the gift was received for 16TK
 RDATE_5                     Date the gift was received for 16SK
@@ -874,6 +878,10 @@ RAMNT_21                    Dollar amount of the gift for 15X1
 RAMNT_22                    Dollar amount of the gift for 15XK
 RAMNT_23                    Dollar amount of the gift for 14FS
 RAMNT_24                    Dollar amount of the gift for 14NK
+
+"""
+
+- DO NOT USE IT 
 
 --------------------------  -------------------------------------------------
                             The following fields are summary variables from

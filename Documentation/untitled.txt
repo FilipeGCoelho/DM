@@ -1,0 +1,52 @@
+[
+'RAMNTALL', Dollar amount of lifetime gifts to date
+'NGIFTALL', Number of lifetime gifts to date
+'CARDGIFT', Dollar amount of smallest gift to date
+'MINRAMNT', Date associated with the smallest gift to date
+'MAXRAMNT', Date associated with the largest gift to date
+'LASTGIFT', Dollar amount of largest gift to date
+'TIMELAG', Number of months between first and second gift
+'AVGGIFT', Average dollar amount of gifts to date
+'TIMEDELTA_SMALLEST_BIGGEST_DONATION', 
+'TIMEDELTA_FIRST_BIGGEST_DONATION',
+'TIMEDELTA_FIRST_LAST_DONATION',
+'AVG_GIFT_VAL']
+
+
+
+
+__________________________///_______________________________________
+
+
+[
+'RFA_2F',
+'RAMNTALL',
+'NGIFTALL',
+'CARDGIFT',
+'MINRAMNT',
+'MAXRAMNT',
+'LASTGIFT',
+'TIMELAG', 'AVGGIFT',
+'TIMEDELTA_SMALLEST_BIGGEST_DONATION',
+'TIMEDELTA_FIRST_BIGGEST_DONATION',
+'TIMEDELTA_FIRST_LAST_DONATION',
+'AVG_GIFT_VAL',
+'TOT_DON_14',
+'TOT_DON_15',
+'TOT_DON_16',
+'TOT_DON_AMNT_14',
+'TOT_DON_AMNT_15',
+'TOT_DON_AMNT_16',
+'CONVERSION_RATE',
+'GIFT_AVG_AMNT',
+'GIFT_AVG_AMNT_PER_PROMOTION',
+'RFA_2R_L',
+'RFA_2A_D',
+'RFA_2A_E',
+'RFA_2A_F',
+'RFA_2A_G'
+
+-------------------------------///////----------------------------------------
+
+def pca_analysis(subgroups_pca_dic): 
+
