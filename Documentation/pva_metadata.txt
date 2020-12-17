@@ -661,7 +661,7 @@ AC2                         Percent Adults Age 60-64
                             '15LL' ==> xxxx_16
                             '15G1' ==> xxxx_17
                             '15GK' ==> xxxx_18
-                            '15CC' ==> xxxx_19
+Rece                            '15CC' ==> xxxx_19
                             '15WL' ==> xxxx_20
                             '15X1' ==> xxxx_21
                             '15XK' ==> xxxx_22
