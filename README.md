@@ -1,5 +1,16 @@
 # DM
 Data mining project - 2020/2021
+</br>
+
+**NOTE**
+CSV exports from the notebooks were ignored, since they are larger than GitHub size limit.
+To run the files, please create a directory like the following:
+</br>
+<img width="300px" src="directory.PNG"/>
+
+
+</br>
+</br>
 
 Notebooks Explanation:
 - **Notebooks\0_Data_Preprocessing-Neighbourhood.ipynb**
